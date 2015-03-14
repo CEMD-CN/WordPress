@@ -194,7 +194,7 @@ a img {
 	text-align: center;
 	text-decoration: inherit;
 	text-transform: none;
-	vertical-align: top;
+	vertical-align: top; /* How to align the element  */
 }
 
 
